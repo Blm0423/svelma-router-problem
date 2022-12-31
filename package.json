@@ -13,7 +13,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.11.2",
     "bulma": "^0.8.0",
-    "rollup-plugin-postcss": "^2.0.3",
+    "rollup-plugin-postcss": "^4.0.2",
     "sirv-cli": "^0.4.4",
     "svelma": "^0.3.0",
     "svelte-routing": "^1.4.0"
